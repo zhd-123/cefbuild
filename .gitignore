@@ -1,0 +1,5 @@
+/build/*
+/dep/*
+*.aps
+.vs
+out
